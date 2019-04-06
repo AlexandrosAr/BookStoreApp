@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:itemTextAppearance">@style/menuTextApearance</item>
+        <item name="actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="edit_text_style">
+        <item name="android:textColorHint">@color/text_color</item>
+        <item name="android:textColor">@color/edit_text_color</item>
+        <item name="android:layout_margin">@dimen/small_padding</item>
+        <item name="android:fontFamily">@string/fontSanSerif</item>
+    </style>
+
+    <style name="edit_text_style_inside">
+        <item name="android:textColorHint">@color/text_color</item>
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:layout_margin">@dimen/small_padding</item>
+        <item name="android:fontFamily">@string/fontSanSerif</item>
+    </style>
+
+    <style name="menuTextApearance" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:fontFamily">@string/fontSanSerif</item>
+    </style>
+
+    <style name="MyTitleTextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:fontFamily">@string/fontSanSerif</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>

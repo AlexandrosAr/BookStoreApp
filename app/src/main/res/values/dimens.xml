@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="simple_padding">16dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="header_height">30dp</dimen>
+    <dimen name="subheader_height">20dp</dimen>
+
+    <dimen name="image_button_size">60dp</dimen>
+    <dimen name="double_button_size">110dp</dimen>
+
+    <dimen name="text_size_header">20sp</dimen>
+    <dimen name="text_size_subheader">15sp</dimen>
+
+    <dimen name="text_size_small">12sp</dimen>
+
+    <dimen name="zero_dp">0dp</dimen>
+</resources>

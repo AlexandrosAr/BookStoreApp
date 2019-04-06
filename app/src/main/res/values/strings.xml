@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Book Store Inventory</string>
+
+    <string name="result_text">results</string>
+    <string name="table_size">0</string>
+
+    <string name="book_name">Book Name</string>
+    <string name="book_author"> Book Author</string>
+    <string name="book_price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="supplier_phone_number">Supplier Phone Number</string>
+
+    <string name="button_name">Add Book</string>
+
+    <string name="empty_list_text">To add a book press the button in the bottom right corner or insert default book from the top right menu</string>
+
+    <string name="fontSanSerif">sans-serif-light</string>
+
+    <!--menu strings-->
+    <string name="default_book_name">Insert default book</string>
+    <string name="delete_all_books">Delete all books</string>
+    <string name="save">Save book</string>
+    <string name="delete">Delete book</string>
+
+    <!--edit_info_activity strings-->
+    <string name="book_name_text_string">Book Title</string>
+    <string name="book_author_text_string">Book Author</string>
+
+    <!--Delete dialog strings-->
+    <string name="delete_message">Do you want to delete this book?</string>
+    <string name="cancelation">Cancel</string>
+
+    <!--Discard changes strings-->
+    <string name="there_are_changes">There are changes, are you sure to diascard them?</string>
+    <string name="diascard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+
+    <!--Toast messages-->
+    <string name="book_insertion_failed">The book insertion failed</string>
+
+</resources>
